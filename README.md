@@ -42,8 +42,11 @@ Link to published app on stores:
 Information Technology (Mobile and Cloud computing) - Swinburne University of Technology 
 ## Projects
 
-### Expo app to create event on local calendar
+### Expo app to create event on local calendar (coming soon)
 [Github]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/tabby-soup/portfolio))
 
-### Expo app to create event on local calendar
+### My Tech Journey (coming soon)
+[Github]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/tabby-soup/portfolio))
+
+### My Hobbies App (coming soon)
 [Github]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/tabby-soup/portfolio))
