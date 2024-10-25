@@ -7,14 +7,14 @@
 IT in Mobile and cloud computing
 
 ## Work Experience
-### Specialist @ Zoi
+### Specialist @ Zoi TechCon GmbH - Current
 - Be part of the app development team to build the top most Popular Lifestyle Apps in Germany on cross platforms iOS and Android. With the IoT app, users can easily control completely different devices using your smartphone, receive status updates and have access to clever services.
 - Be part of the team to work on commercial parts of the app also known as the money makers of the app.
   - App Promotions, Banners, Shopping Carts,..      
 
 #### Related technical stacks: TypeScript, React Native Expo, GraphQL, Strapi, Agile methodology, SonarQube,   Phrase CLI, Cucumber/Detox, Testing Library React Native, Bitrise, AWS API integration. 
 
-### Software Engineer @ Orient Software
+### Software Engineer @ Orient Software 3/2022 - 1/2024
 * Worked on the development of IoT app for devices and cleaning agents, utilizing React Native to build cross-platform components and enhance the overall user experience.
 * Collaborated with UX/UI designers to create user-friendly interfaces.
 * Implemented Cloud APIs for seamless AWS integration.
@@ -24,22 +24,21 @@ IT in Mobile and cloud computing
 
 #### Related technical stacks: Agile methodology,TypeScript, React Native CLI, GraphQL, Contentful, Enzyme/Jest,..
 
-### Mobie Application Developer @ Netco Post
+### Mobie Application Developer @ Netco Post 1/2020 - 3/2022
 - Maintained mobile app Netco Post for customers users, downloaded by thousands of users.
-- Built Netco Delivery for internal logistics operations, available on App Store and Google Play, for drivers and riders to check in and check out packages, track locations, ensure packages are picked up and dropped at the correct location.
+- Built Netco Delivery from scratch for internal logistics operations, available on App Store and Google Play, for drivers and riders to check in and check out packages, track locations, ensure packages are picked up and dropped at the correct location.
   - Integrated Firebase and Google Maps API to support location-based services.
   - Responsible for building main functionalities and UI.
   - Collaborated with team members to get new requirements and solved problems.
   - Work in back-ends for Front-ends as needed to create simple MySQL READ queries.
   - Fix bugs and maintain the apps.
   - Uploaded both apps to App Store and Google Play.
-  - 
-Link to published app on stores:
-  
 #### Related technical stacks: React Native z.63, Codepush, Google API Map to get Location, Firebase Push Notifications, third-party libraries, hooks, Redux, Redux Saga. 
-[NETCO delivery app on App Store]([https://apps.apple.com/us/app/netco-smart/id1572393493]))
 
-[NETCO delivery app on Google Play Store]([https://apps.apple.com/us/app/netco-smart/id1572393493](https://play.google.com/store/apps/details?id=com.netco_ex]))
+Link to published app on stores:
+[NETCO delivery app on App Store](https://apps.apple.com/us/app/netco-smart/id1572393493)
+
+[NETCO delivery app on Google Play Store](https://apps.apple.com/us/app/netco-smart/id1572393493)
 
 
 ## Projects
