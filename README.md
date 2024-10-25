@@ -1,3 +1,6 @@
+
+<img src="assets/img/headshot_circle.png" alt="Profile Picture" style="border-radius: 50%; width: 100px; height: 100px;">
+
 # Software Engineer
 
 ### Education
