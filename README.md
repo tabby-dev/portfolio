@@ -31,6 +31,7 @@ With 5+ years experience in Software Development, as well as domain knowledge ab
   - Work in back-ends for Front-ends as needed to create simple MySQL READ queries.
   - Fix bugs and maintain the apps.
   - Uploaded both apps to App Store and Google Play.
+  - 
 #### Related technical stacks: React Native z.63, Codepush, Google API Map to get Location, Firebase Push Notifications, third-party libraries, hooks, Redux, Redux Saga. 
 
 Link to published app on stores:
