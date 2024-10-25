@@ -1,7 +1,8 @@
 
-  <img src="assets/img/headshot_circle.png" alt="Profile Picture" style="border-radius: 50%; width: 100px; height: 100px;">
+  <img src="assets/img/headshot_circle.png" alt="Profile Picture" style="border-radius: 50%; width: 200px; height: 300px;">
 
 # Software Engineer
+With 5+ years experience in Software Development, as well as domain knowledge about Logistics and Iot, I  am capable of working efficiently both independently and in a team to deliver high-quality products within tight  deadlines. I not only demonstrate my ability to interact with multiple stakeholders effectively through my strong  communication skills and English pro:ciency, but also provide teammates with a better process. Having a huge  passion for the latest technologies, especially in React / React Native, I constantly broadens my knowledge by  researching and applying it to practical proJects. I am constantly willing to learn and change for the best results and  the attainment of team goals, and I do so with an open mind. 
 
 ## Education
 IT in Mobile and cloud computing
