@@ -15,4 +15,8 @@ Mobie Application Developer @ Netco Post
 
 ### Projects
 
+### Expo app to create event on local calendar
+[Github]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/tabby-soup/portfolio))
 
+### Expo app to create event on local calendar
+[Github]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/tabby-soup/portfolio))
