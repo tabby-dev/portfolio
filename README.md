@@ -4,9 +4,6 @@
 # Software Engineer
 With 5+ years experience in Software Development, as well as domain knowledge about Logistics and Iot, I  am capable of working efficiently both independently and in a team to deliver high-quality products within tight  deadlines. I not only demonstrate my ability to interact with multiple stakeholders effectively through my strong  communication skills and English pro:ciency, but also provide teammates with a better process. Having a huge  passion for the latest technologies, especially in React / React Native, I constantly broadens my knowledge by  researching and applying it to practical proJects. I am constantly willing to learn and change for the best results and  the attainment of team goals, and I do so with an open mind. 
 
-## Education
-IT in Mobile and cloud computing
-
 ## Work Experience
 ### Specialist @ Zoi TechCon GmbH - Current
 - Be part of the app development team to build the top most Popular Lifestyle Apps in Germany on cross platforms iOS and Android. With the IoT app, users can easily control completely different devices using your smartphone, receive status updates and have access to clever services.
@@ -41,7 +38,8 @@ Link to published app on stores:
 
 [NETCO delivery app on Google Play Store](https://apps.apple.com/us/app/netco-smart/id1572393493)
 
-
+## Education
+Information Technology (Mobile and Cloud computing) - Swinburne University of Technology 
 ## Projects
 
 ### Expo app to create event on local calendar
