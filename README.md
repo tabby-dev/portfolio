@@ -48,8 +48,8 @@ Information Technology (Mobile and Cloud computing) - Swinburne University of Te
 ### Expo app to create event on local calendar (coming soon)
 [Github]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/tabby-soup/portfolio))
 
-### My Tech Journey (coming soon)
-[Github]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/tabby-soup/portfolio))
+### App Reviews 
+[BuildPass](https://tabby-dev.github.io/BuildPass/)
 
 ### My Hobbies App (coming soon)
 [Github]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/tabby-soup/portfolio))
